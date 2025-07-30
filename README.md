@@ -23,6 +23,6 @@ Aplicatia include următoarele elemente principale de interfață:
 * Dash (Python): Frameworkul principal utilizat pentru crearea interfeței, vizualizarea datelor si dezvoltarea unor clase personalizate pentru afișarea tabelelor, generarea graficelor de tip pie chart.
 * Flask: Server web utilizat pentru a găzdui aplicația Dash.
 * Docker: Folosit pentru containerizarea aplicației, facilitând astfel implementarea și rularea într-un mediu izolat.
-
+* Plotly Expres: Bibliotecă folosită pentru generarea rapidă a graficelor.
 
 
